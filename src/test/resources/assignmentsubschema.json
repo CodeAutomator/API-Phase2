@@ -1,0 +1,71 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/Welcome6",
+    "definitions": {
+        "Welcome6": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "submissionId": {
+                    "type": "integer"
+                },
+                "assignmentId": {
+                    "type": "integer"
+                },
+                "userId": {
+                    "type": "string"
+                },
+                "subDesc": {
+                    "type": "string"
+                },
+                "subComments": {
+                    "type": "string"
+                },
+                "subPathAttach1": {
+                    "type": "string"
+                },
+                "subPathAttach2": {
+                    "type": "string"
+                },
+                "subPathAttach3": {
+                    "type": "string"
+                },
+                "subPathAttach4": {
+                    "type": "string"
+                },
+                "subPathAttach5": {
+                    "type": "string"
+                },
+                "subDateTime": {
+                    "type": "string"
+                },
+                "gradedBy": {
+                    "type": "string"
+                },
+                "gradedDateTime": {
+                    "type": "string"
+                },
+                "grade": {
+                    "type": "integer"
+                }
+            },
+            "required": [
+                "assignmentId",
+                "grade",
+                "gradedBy",
+                "gradedDateTime",
+                "subComments",
+                "subDateTime",
+                "subDesc",
+                "subPathAttach1",
+                "subPathAttach2",
+                "subPathAttach3",
+                "subPathAttach4",
+                "subPathAttach5",
+                "submissionId",
+                "userId"
+            ],
+            "title": "Welcome6"
+        }
+    }
+}

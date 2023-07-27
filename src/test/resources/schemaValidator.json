@@ -1,0 +1,68 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/Welcome3",
+    "definitions": {
+        "Welcome3": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "assignmentDescription": {
+                    "type": "string"
+                },
+                "assignmentId": {
+                    "type": "integer"
+                },
+                "assignmentName": {
+                    "type": "string"
+                },
+                "batchId": {
+                    "type": "integer"
+                },
+                "comments": {
+                    "type": "string"
+                },
+                "createdBy": {
+                    "type": "string"
+                },
+                "dueDate": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "graderId": {
+                    "type": "string"
+                },
+                "pathAttachment1": {
+                    "type": "string"
+                },
+                "pathAttachment2": {
+                    "type": "string"
+                },
+                "pathAttachment3": {
+                    "type": "string"
+                },
+                "pathAttachment4": {
+                    "type": "string"
+                },
+                "pathAttachment5": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "assignmentDescription",
+                "assignmentId",
+                "assignmentName",
+                "batchId",
+                "comments",
+                "createdBy",
+                "dueDate",
+                "graderId",
+                "pathAttachment1",
+                "pathAttachment2",
+                "pathAttachment3",
+                "pathAttachment4",
+                "pathAttachment5"
+            ],
+            "title": "Welcome3"
+        }
+    }
+}

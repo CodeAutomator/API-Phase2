@@ -1,0 +1,896 @@
+['INFO ]2023-07-27 13:27:25,081(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 13:27:25,434(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 13:27:25,437(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 13:27:25,438(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 13:27:25,438(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 13:27:27,161(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@4c1d59cd
+['INFO ]2023-07-27 13:27:27,186(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 13:27:27,192(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 13:27:27,193(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************POSt request***************
+['INFO ]2023-07-27 13:27:27,621(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@8bd076a
+['INFO ]2023-07-27 13:27:27,633(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 13:27:27,634(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 13:27:27,635(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************GET program byId***************
+['INFO ]2023-07-27 13:27:27,960(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@73fbdf68
+['INFO ]2023-07-27 13:27:27,969(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 13:27:27,969(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 13:27:27,970(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************PUT program byId***************
+['INFO ]2023-07-27 13:27:28,174(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@6e829e50
+['INFO ]2023-07-27 13:27:28,181(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 13:27:28,182(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 13:27:28,183(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************PUT program BY NAME ***************
+['INFO ]2023-07-27 13:27:28,527(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@4a1a256d
+['INFO ]2023-07-27 13:27:28,534(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 13:27:28,535(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 13:27:28,536(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************POST second program ***************
+['INFO ]2023-07-27 13:27:28,818(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@4c6a4ffd
+['INFO ]2023-07-27 13:27:47,921(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Batch **************************
+['INFO ]2023-07-27 13:27:49,316(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving All Batches *************
+['INFO ]2023-07-27 13:27:50,731(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 13:27:50,740(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving Batch *************
+['INFO ]2023-07-27 13:27:51,012(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@6736f40f
+['INFO ]2023-07-27 13:27:51,012(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 13:27:51,020(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Batch *************
+['INFO ]2023-07-27 13:27:51,364(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@58b97c15
+['INFO ]2023-07-27 13:27:51,366(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 13:27:51,632(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating Batch*************
+['INFO ]2023-07-27 13:27:51,837(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Batch details Updated ****************
+['INFO ]2023-07-27 13:27:51,837(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving Batch Details after Update *************
+['INFO ]2023-07-27 13:27:52,037(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@5ee77baf
+['INFO ]2023-07-27 13:27:52,044(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Batch details Updated *************
+['INFO ]2023-07-27 13:29:25,411(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment POST request with endpoint
+['INFO ]2023-07-27 13:29:25,810(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Assignment *************
+['INFO ]2023-07-27 13:29:27,290(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 13:29:27,291(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving All Assignments *************
+['INFO ]2023-07-27 13:29:27,532(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@1b47b7f5
+['INFO ]2023-07-27 13:29:27,785(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 13:29:27,794(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 13:29:27,794(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 13:29:28,108(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@64f3ca6
+['INFO ]2023-07-27 13:29:28,116(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 13:29:28,117(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 13:29:28,447(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@505f45cc
+['INFO ]2023-07-27 13:29:28,453(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment PUT request with endpoint
+['INFO ]2023-07-27 13:29:28,494(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating assignment *************
+['INFO ]2023-07-27 13:29:59,387(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- post request with endpoint------------------
+['INFO ]2023-07-27 13:29:59,802(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Submitting Assignment*************
+['INFO ]2023-07-27 13:30:01,648(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 13:30:01,649(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving All Assignments*************
+['INFO ]2023-07-27 13:30:02,629(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 13:30:02,943(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------------details retrieved by assignment id ------------------
+['INFO ]2023-07-27 13:30:02,951(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 13:30:03,005(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** put for grade submission student User *************
+['INFO ]2023-07-27 13:30:03,221(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 13:30:03,221(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by userid-----------
+['INFO ]2023-07-27 13:30:03,232(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 13:30:03,233(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by batchid-----------
+['INFO ]2023-07-27 13:30:03,446(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 13:30:03,446(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by userid-----------
+['INFO ]2023-07-27 13:30:03,458(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 13:30:03,458(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by batchid-----------
+['INFO ]2023-07-27 13:30:03,804(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------status code verified---------------
+['INFO ]2023-07-27 13:30:03,804(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------content type checked----------
+['INFO ]2023-07-27 13:30:03,805(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------Transfer-Encoding checked----------
+['INFO ]2023-07-27 13:30:03,809(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 13:30:03,855(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment*************
+['INFO ]2023-07-27 13:30:04,150(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment updated *************
+['INFO ]2023-07-27 13:30:30,167(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- delete request with endpoint------------------
+['INFO ]2023-07-27 13:30:30,174(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment Submission *************
+['INFO ]2023-07-27 13:30:31,394(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment DELETE request with endpoint
+['INFO ]2023-07-27 13:30:31,395(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment *************
+['INFO ]2023-07-27 13:30:31,642(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@ec7b5de
+['INFO ]2023-07-27 13:30:31,671(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Batch *************
+['INFO ]2023-07-27 13:30:32,032(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@270a620
+['INFO ]2023-07-27 13:30:32,040(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************DELETE program byId***************
+['INFO ]2023-07-27 13:30:32,424(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@1f9d4b0e
+['INFO ]2023-07-27 13:30:32,430(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************DELETE program BY NAME ***************
+['INFO ]2023-07-27 13:31:23,666(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Batch **************************
+['INFO ]2023-07-27 13:31:25,163(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving Batch *************
+['INFO ]2023-07-27 13:31:25,520(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@27896d3b
+['INFO ]2023-07-27 13:31:25,522(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 13:31:25,533(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Batch *************
+['INFO ]2023-07-27 13:31:25,767(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@7f8c48f3
+['INFO ]2023-07-27 13:31:25,769(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 13:31:26,098(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating Batch*************
+['INFO ]2023-07-27 13:31:26,325(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Batch details Updated ****************
+['INFO ]2023-07-27 13:31:26,325(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving Batch Details after Update *************
+['INFO ]2023-07-27 13:31:26,542(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@7cd1ec54
+['INFO ]2023-07-27 13:31:26,549(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Batch *************
+['INFO ]2023-07-27 13:31:26,913(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@382faf51
+['INFO ]2023-07-27 13:32:23,749(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment POST request with endpoint
+['INFO ]2023-07-27 13:32:23,753(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Assignment *************
+['INFO ]2023-07-27 13:32:25,193(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** status is been verified ****************
+['INFO ]2023-07-27 13:32:25,210(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 13:32:25,211(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 13:32:25,432(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@4ed18798
+['INFO ]2023-07-27 13:32:25,434(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 13:32:25,442(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 13:32:25,882(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 13:32:26,201(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@39ace1a7
+['INFO ]2023-07-27 13:32:26,203(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 13:32:26,212(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment PUT request with endpoint
+['INFO ]2023-07-27 13:32:26,213(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating assignment *************
+['INFO ]2023-07-27 13:32:26,488(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment DELETE request with endpoint
+['INFO ]2023-07-27 13:32:26,489(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment *************
+['INFO ]2023-07-27 13:32:26,762(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@6eed46e9
+['INFO ]2023-07-27 13:32:47,050(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- post request with endpoint------------------
+['INFO ]2023-07-27 13:32:47,464(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment submission for negative scenario****************
+['INFO ]2023-07-27 13:32:48,962(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** status is been verified ****************
+['INFO ]2023-07-27 13:32:48,963(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 13:32:49,344(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 13:32:49,603(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------------details retrieved by assignment id ------------------
+['INFO ]2023-07-27 13:32:49,604(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 13:32:49,629(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 13:32:49,630(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by userid-----------
+['INFO ]2023-07-27 13:32:49,859(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 13:32:49,884(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 13:32:49,885(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by batchid-----------
+['INFO ]2023-07-27 13:32:50,086(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 13:32:50,111(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 13:32:50,111(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by userid-----------
+['INFO ]2023-07-27 13:32:50,326(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 13:32:50,341(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 13:32:50,341(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by batchid-----------
+['INFO ]2023-07-27 13:32:50,676(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 13:32:50,723(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment*************
+['INFO ]2023-07-27 13:32:51,038(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment updated *************
+['INFO ]2023-07-27 13:32:51,040(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 13:32:51,054(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 13:32:51,106(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** put for grade submission student User *************
+['INFO ]2023-07-27 13:32:51,331(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 13:32:51,342(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- delete request with endpoint------------------
+['INFO ]2023-07-27 13:32:51,343(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment Submission *************
+['INFO ]2023-07-27 13:32:51,563(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:09:38,986(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:09:39,358(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:09:39,359(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:09:39,361(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:09:39,361(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:09:40,447(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@38811103
+['INFO ]2023-07-27 15:09:40,472(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:09:40,477(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:09:40,478(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************POSt request***************
+['INFO ]2023-07-27 15:09:40,815(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@716f94c1
+['INFO ]2023-07-27 15:09:40,830(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:09:40,831(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:09:40,835(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************GET program byId***************
+['INFO ]2023-07-27 15:09:40,855(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:09:40,855(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:09:40,856(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************PUT program byId***************
+['INFO ]2023-07-27 15:09:41,230(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@24a04257
+['INFO ]2023-07-27 15:09:41,240(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:09:41,241(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:09:41,241(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************PUT program BY NAME ***************
+['INFO ]2023-07-27 15:09:41,255(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:09:41,256(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:09:41,256(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************POST second program ***************
+['INFO ]2023-07-27 15:09:41,440(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@d84b3a2
+['INFO ]2023-07-27 15:09:41,848(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Batch **************************
+['INFO ]2023-07-27 15:09:42,236(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving All Batches *************
+['INFO ]2023-07-27 15:09:44,042(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 15:09:44,049(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving Batch *************
+['INFO ]2023-07-27 15:09:44,237(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@2ebf524
+['INFO ]2023-07-27 15:09:44,239(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 15:09:44,248(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Batch *************
+['INFO ]2023-07-27 15:09:44,551(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@236a4d30
+['INFO ]2023-07-27 15:09:44,553(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 15:09:44,903(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating Batch*************
+['INFO ]2023-07-27 15:09:45,216(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Batch details Updated ****************
+['INFO ]2023-07-27 15:09:45,217(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving Batch Details after Update *************
+['INFO ]2023-07-27 15:09:45,545(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@2904bc56
+['INFO ]2023-07-27 15:09:45,545(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Batch details Updated *************
+['INFO ]2023-07-27 15:09:52,687(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment POST request with endpoint
+['INFO ]2023-07-27 15:09:52,728(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Assignment *************
+['INFO ]2023-07-27 15:09:52,961(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:09:52,961(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving All Assignments *************
+['INFO ]2023-07-27 15:09:53,265(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@22dc9d46
+['INFO ]2023-07-27 15:09:53,905(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:09:53,909(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:09:53,909(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:09:54,231(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@5c16561a
+['INFO ]2023-07-27 15:09:54,238(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:09:54,238(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:09:54,589(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@33e6bd36
+['INFO ]2023-07-27 15:09:54,598(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment PUT request with endpoint
+['INFO ]2023-07-27 15:09:54,639(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating assignment *************
+['INFO ]2023-07-27 15:09:54,865(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- post request with endpoint------------------
+['INFO ]2023-07-27 15:09:54,914(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Submitting Assignment*************
+['INFO ]2023-07-27 15:09:55,305(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:09:55,305(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving All Assignments*************
+['INFO ]2023-07-27 15:09:55,917(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:09:56,135(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------------details retrieved by assignment id ------------------
+['INFO ]2023-07-27 15:09:56,142(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:09:56,167(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** put for grade submission student User *************
+['INFO ]2023-07-27 15:09:56,358(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:09:56,359(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by userid-----------
+['INFO ]2023-07-27 15:09:56,565(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:09:56,566(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by batchid-----------
+['INFO ]2023-07-27 15:09:56,905(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:09:56,905(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by userid-----------
+['INFO ]2023-07-27 15:09:57,250(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------status code verified---------------
+['INFO ]2023-07-27 15:09:57,251(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------content type checked----------
+['INFO ]2023-07-27 15:09:57,251(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------Transfer-Encoding checked----------
+['INFO ]2023-07-27 15:09:57,256(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:09:57,256(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by batchid-----------
+['INFO ]2023-07-27 15:09:57,609(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------status code verified---------------
+['INFO ]2023-07-27 15:09:57,609(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------content type checked----------
+['INFO ]2023-07-27 15:09:57,609(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------Transfer-Encoding checked----------
+['INFO ]2023-07-27 15:09:57,616(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:09:57,636(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment*************
+['INFO ]2023-07-27 15:09:57,967(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment updated *************
+['INFO ]2023-07-27 15:09:57,972(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- delete request with endpoint------------------
+['INFO ]2023-07-27 15:09:57,972(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment Submission *************
+['INFO ]2023-07-27 15:09:58,195(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment DELETE request with endpoint
+['INFO ]2023-07-27 15:09:58,196(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment *************
+['INFO ]2023-07-27 15:09:58,410(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@1d0fc0bc
+['INFO ]2023-07-27 15:09:58,751(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Batch *************
+['INFO ]2023-07-27 15:09:58,957(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@5b6ec94a
+['INFO ]2023-07-27 15:09:58,959(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deletion Successful *************
+['INFO ]2023-07-27 15:09:58,963(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************DELETE program byId***************
+['INFO ]2023-07-27 15:09:59,183(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@341c0dfc
+['INFO ]2023-07-27 15:09:59,190(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************DELETE program BY NAME ***************
+['INFO ]2023-07-27 15:10:00,735(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Batch **************************
+['INFO ]2023-07-27 15:10:01,032(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving Batch *************
+['INFO ]2023-07-27 15:10:01,386(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@3e729d46
+['INFO ]2023-07-27 15:10:01,387(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 15:10:01,403(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Batch *************
+['INFO ]2023-07-27 15:10:01,720(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@73476e2d
+['INFO ]2023-07-27 15:10:01,721(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 15:10:02,055(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating Batch*************
+['INFO ]2023-07-27 15:10:02,342(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Batch details Updated ****************
+['INFO ]2023-07-27 15:10:02,342(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving Batch Details after Update *************
+['INFO ]2023-07-27 15:10:02,665(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@7dbe858f
+['INFO ]2023-07-27 15:10:02,671(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Batch *************
+['INFO ]2023-07-27 15:10:02,901(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@524b1e41
+['INFO ]2023-07-27 15:10:05,814(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment POST request with endpoint
+['INFO ]2023-07-27 15:10:05,815(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Assignment *************
+['INFO ]2023-07-27 15:10:06,017(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** status is been verified ****************
+['INFO ]2023-07-27 15:10:06,021(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:10:06,021(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:10:06,311(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@7154a248
+['INFO ]2023-07-27 15:10:06,313(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:10:06,316(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:10:06,331(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:10:06,555(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@23cfc9eb
+['INFO ]2023-07-27 15:10:06,556(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:10:06,560(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment PUT request with endpoint
+['INFO ]2023-07-27 15:10:06,560(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating assignment *************
+['INFO ]2023-07-27 15:10:06,876(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment DELETE request with endpoint
+['INFO ]2023-07-27 15:10:06,877(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment *************
+['INFO ]2023-07-27 15:10:07,184(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@2ac7c683
+['INFO ]2023-07-27 15:10:07,192(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- post request with endpoint------------------
+['INFO ]2023-07-27 15:10:07,217(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment submission for negative scenario****************
+['INFO ]2023-07-27 15:10:07,404(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** status is been verified ****************
+['INFO ]2023-07-27 15:10:07,405(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:10:07,417(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:10:07,729(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------------details retrieved by assignment id ------------------
+['INFO ]2023-07-27 15:10:07,729(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:10:07,746(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:10:07,747(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by userid-----------
+['INFO ]2023-07-27 15:10:07,953(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:10:07,964(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:10:07,965(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by batchid-----------
+['INFO ]2023-07-27 15:10:08,147(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:10:08,161(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:10:08,161(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by userid-----------
+['INFO ]2023-07-27 15:10:08,376(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:10:08,389(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:10:08,389(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by batchid-----------
+['INFO ]2023-07-27 15:10:08,610(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:10:08,637(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment*************
+['INFO ]2023-07-27 15:10:08,924(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment updated *************
+['INFO ]2023-07-27 15:10:08,925(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:10:08,938(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:10:08,955(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** put for grade submission student User *************
+['INFO ]2023-07-27 15:10:09,144(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:10:09,156(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- delete request with endpoint------------------
+['INFO ]2023-07-27 15:10:09,157(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment Submission *************
+['INFO ]2023-07-27 15:10:09,366(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:12:32,217(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:12:32,601(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:12:32,606(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:12:32,607(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:12:32,609(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:12:34,487(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@7be38eba
+['INFO ]2023-07-27 15:12:34,581(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:12:34,584(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:12:34,585(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************POSt request***************
+['INFO ]2023-07-27 15:12:34,916(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@59b447a4
+['INFO ]2023-07-27 15:12:34,931(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:12:34,932(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:12:34,937(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************GET program byId***************
+['INFO ]2023-07-27 15:12:34,976(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:12:34,978(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:12:34,980(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************PUT program byId***************
+['INFO ]2023-07-27 15:12:35,197(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@6e321d9d
+['INFO ]2023-07-27 15:12:35,223(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:12:35,224(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:12:35,224(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************PUT program BY NAME ***************
+['INFO ]2023-07-27 15:12:35,242(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:12:35,243(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:12:35,244(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************POST second program ***************
+['INFO ]2023-07-27 15:12:35,464(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@ec5f944
+['INFO ]2023-07-27 15:12:35,876(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Batch **************************
+['INFO ]2023-07-27 15:12:36,368(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving All Batches *************
+['INFO ]2023-07-27 15:12:38,274(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 15:12:38,297(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving Batch *************
+['INFO ]2023-07-27 15:12:38,593(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@30eb55c9
+['INFO ]2023-07-27 15:12:38,595(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 15:12:38,602(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Batch *************
+['INFO ]2023-07-27 15:12:38,936(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@57ed02e6
+['INFO ]2023-07-27 15:12:38,937(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 15:12:39,193(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating Batch*************
+['INFO ]2023-07-27 15:12:39,382(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Batch details Updated ****************
+['INFO ]2023-07-27 15:12:39,383(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving Batch Details after Update *************
+['INFO ]2023-07-27 15:12:39,699(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@38caad07
+['INFO ]2023-07-27 15:12:39,701(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Batch details Updated *************
+['INFO ]2023-07-27 15:12:46,975(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment POST request with endpoint
+['INFO ]2023-07-27 15:12:47,027(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Assignment *************
+['INFO ]2023-07-27 15:12:47,279(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:12:47,280(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving All Assignments *************
+['INFO ]2023-07-27 15:12:47,513(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@37b1218
+['INFO ]2023-07-27 15:12:47,700(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:12:47,717(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:12:47,718(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:12:48,005(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@37a939bc
+['INFO ]2023-07-27 15:12:48,013(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:12:48,014(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:12:48,394(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@7bb86ac
+['INFO ]2023-07-27 15:12:48,413(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment PUT request with endpoint
+['INFO ]2023-07-27 15:12:48,441(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating assignment *************
+['INFO ]2023-07-27 15:12:48,683(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- post request with endpoint------------------
+['INFO ]2023-07-27 15:12:48,714(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Submitting Assignment*************
+['INFO ]2023-07-27 15:12:48,989(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:12:48,989(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving All Assignments*************
+['INFO ]2023-07-27 15:12:49,592(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:12:49,810(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------------details retrieved by assignment id ------------------
+['INFO ]2023-07-27 15:12:49,818(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:12:49,851(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** put for grade submission student User *************
+['INFO ]2023-07-27 15:12:50,213(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:12:50,213(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by userid-----------
+['INFO ]2023-07-27 15:12:50,433(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:12:50,435(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by batchid-----------
+['INFO ]2023-07-27 15:12:50,669(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:12:50,670(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by userid-----------
+['INFO ]2023-07-27 15:12:50,909(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------status code verified---------------
+['INFO ]2023-07-27 15:12:50,910(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------content type checked----------
+['INFO ]2023-07-27 15:12:50,910(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------Transfer-Encoding checked----------
+['INFO ]2023-07-27 15:12:50,919(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:12:50,920(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by batchid-----------
+['INFO ]2023-07-27 15:12:51,325(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------status code verified---------------
+['INFO ]2023-07-27 15:12:51,326(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------content type checked----------
+['INFO ]2023-07-27 15:12:51,326(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------Transfer-Encoding checked----------
+['INFO ]2023-07-27 15:12:51,337(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:12:51,361(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment*************
+['INFO ]2023-07-27 15:12:51,559(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment updated *************
+['INFO ]2023-07-27 15:12:51,580(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- delete request with endpoint------------------
+['INFO ]2023-07-27 15:12:51,581(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment Submission *************
+['INFO ]2023-07-27 15:12:51,803(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment DELETE request with endpoint
+['INFO ]2023-07-27 15:12:51,803(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment *************
+['INFO ]2023-07-27 15:12:52,025(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@643fed50
+['INFO ]2023-07-27 15:12:52,426(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Batch *************
+['INFO ]2023-07-27 15:12:52,622(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@3ce4eb42
+['INFO ]2023-07-27 15:12:52,623(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deletion Successful *************
+['INFO ]2023-07-27 15:12:52,631(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************DELETE program byId***************
+['INFO ]2023-07-27 15:12:52,878(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@39ee07a9
+['INFO ]2023-07-27 15:12:52,886(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************DELETE program BY NAME ***************
+['INFO ]2023-07-27 15:12:54,134(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Batch **************************
+['INFO ]2023-07-27 15:12:54,482(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving Batch *************
+['INFO ]2023-07-27 15:12:54,827(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@15e748b5
+['INFO ]2023-07-27 15:12:54,828(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 15:12:54,846(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Batch *************
+['INFO ]2023-07-27 15:12:55,178(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@5af8ef61
+['INFO ]2023-07-27 15:12:55,180(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 15:12:55,499(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating Batch*************
+['INFO ]2023-07-27 15:12:55,716(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Batch details Updated ****************
+['INFO ]2023-07-27 15:12:55,717(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving Batch Details after Update *************
+['INFO ]2023-07-27 15:12:55,948(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@77da2881
+['INFO ]2023-07-27 15:12:55,957(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Batch *************
+['INFO ]2023-07-27 15:12:56,142(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@37f75ebf
+['INFO ]2023-07-27 15:12:59,154(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment POST request with endpoint
+['INFO ]2023-07-27 15:12:59,155(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Assignment *************
+['INFO ]2023-07-27 15:12:59,352(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** status is been verified ****************
+['INFO ]2023-07-27 15:12:59,368(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:12:59,369(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:12:59,727(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@2a4a95c4
+['INFO ]2023-07-27 15:12:59,728(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:12:59,733(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:12:59,746(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:13:00,063(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@2ef5df8f
+['INFO ]2023-07-27 15:13:00,064(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:13:00,069(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment PUT request with endpoint
+['INFO ]2023-07-27 15:13:00,070(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating assignment *************
+['INFO ]2023-07-27 15:13:00,430(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment DELETE request with endpoint
+['INFO ]2023-07-27 15:13:00,430(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment *************
+['INFO ]2023-07-27 15:13:00,653(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@df0b348
+['INFO ]2023-07-27 15:13:00,664(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- post request with endpoint------------------
+['INFO ]2023-07-27 15:13:00,685(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment submission for negative scenario****************
+['INFO ]2023-07-27 15:13:00,978(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** status is been verified ****************
+['INFO ]2023-07-27 15:13:00,979(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:13:00,992(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:13:01,316(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------------details retrieved by assignment id ------------------
+['INFO ]2023-07-27 15:13:01,317(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:13:01,346(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:13:01,347(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by userid-----------
+['INFO ]2023-07-27 15:13:01,683(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:13:01,697(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:13:01,698(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by batchid-----------
+['INFO ]2023-07-27 15:13:02,053(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:13:02,066(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:13:02,067(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by userid-----------
+['INFO ]2023-07-27 15:13:02,437(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:13:02,451(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:13:02,452(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by batchid-----------
+['INFO ]2023-07-27 15:13:02,695(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:13:02,716(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment*************
+['INFO ]2023-07-27 15:13:03,038(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment updated *************
+['INFO ]2023-07-27 15:13:03,040(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:13:03,052(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:13:03,076(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** put for grade submission student User *************
+['INFO ]2023-07-27 15:13:03,306(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:13:03,319(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- delete request with endpoint------------------
+['INFO ]2023-07-27 15:13:03,319(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment Submission *************
+['INFO ]2023-07-27 15:13:03,664(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:18:02,711(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:18:03,038(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:18:03,045(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:18:03,046(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:18:03,049(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:18:04,127(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@5b7ee56c
+['INFO ]2023-07-27 15:18:04,247(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:18:04,250(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:18:04,251(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************POSt request***************
+['INFO ]2023-07-27 15:18:04,526(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@29c25bbc
+['INFO ]2023-07-27 15:18:04,553(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:18:04,555(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:18:04,563(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************GET program byId***************
+['INFO ]2023-07-27 15:18:04,600(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:18:04,601(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:18:04,603(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************PUT program byId***************
+['INFO ]2023-07-27 15:18:04,817(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@4e8afdad
+['INFO ]2023-07-27 15:18:04,832(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:18:04,833(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:18:04,834(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************PUT program BY NAME ***************
+['INFO ]2023-07-27 15:18:04,850(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:18:04,851(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:18:04,852(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************POST second program ***************
+['INFO ]2023-07-27 15:18:05,117(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@2efcc0b3
+['INFO ]2023-07-27 15:18:05,273(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment POST request with endpoint
+['INFO ]2023-07-27 15:18:05,647(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Assignment *************
+['INFO ]2023-07-27 15:18:06,049(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:18:06,051(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving All Assignments *************
+['INFO ]2023-07-27 15:18:06,269(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@753e4eb5
+['INFO ]2023-07-27 15:18:06,481(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:18:06,500(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:18:06,503(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:18:06,895(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@3b50f432
+['INFO ]2023-07-27 15:18:06,906(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:18:06,908(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:18:07,285(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@53b907d9
+['INFO ]2023-07-27 15:18:07,307(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment PUT request with endpoint
+['INFO ]2023-07-27 15:18:07,346(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating assignment *************
+['INFO ]2023-07-27 15:18:07,576(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:18:07,577(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving All Assignments*************
+['INFO ]2023-07-27 15:18:08,519(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:18:08,763(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------------details retrieved by assignment id ------------------
+['INFO ]2023-07-27 15:18:08,776(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:18:08,837(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** put for grade submission student User *************
+['INFO ]2023-07-27 15:18:09,211(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:18:09,212(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by userid-----------
+['INFO ]2023-07-27 15:18:09,225(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:18:09,225(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by batchid-----------
+['INFO ]2023-07-27 15:18:09,582(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:18:09,583(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by userid-----------
+['INFO ]2023-07-27 15:18:09,591(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:18:09,591(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by batchid-----------
+['INFO ]2023-07-27 15:18:09,915(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------status code verified---------------
+['INFO ]2023-07-27 15:18:09,916(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------content type checked----------
+['INFO ]2023-07-27 15:18:09,916(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------Transfer-Encoding checked----------
+['INFO ]2023-07-27 15:18:09,935(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:18:09,986(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment*************
+['INFO ]2023-07-27 15:18:10,359(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment updated *************
+['INFO ]2023-07-27 15:18:10,368(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- delete request with endpoint------------------
+['INFO ]2023-07-27 15:18:10,369(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment Submission *************
+['INFO ]2023-07-27 15:18:10,605(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment DELETE request with endpoint
+['INFO ]2023-07-27 15:18:10,606(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment *************
+['INFO ]2023-07-27 15:18:10,960(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@8d23cd8
+['INFO ]2023-07-27 15:18:10,981(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************DELETE program byId***************
+['INFO ]2023-07-27 15:18:11,350(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@2053b761
+['INFO ]2023-07-27 15:18:11,356(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************DELETE program BY NAME ***************
+['INFO ]2023-07-27 15:18:13,031(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment POST request with endpoint
+['INFO ]2023-07-27 15:18:13,032(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Assignment *************
+['INFO ]2023-07-27 15:18:13,360(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** status is been verified ****************
+['INFO ]2023-07-27 15:18:13,375(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:18:13,376(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:18:13,692(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@4844e24b
+['INFO ]2023-07-27 15:18:13,694(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:18:13,702(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:18:13,727(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:18:14,089(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@296949c8
+['INFO ]2023-07-27 15:18:14,092(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:18:14,100(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment PUT request with endpoint
+['INFO ]2023-07-27 15:18:14,101(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating assignment *************
+['INFO ]2023-07-27 15:18:14,411(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment DELETE request with endpoint
+['INFO ]2023-07-27 15:18:14,412(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment *************
+['INFO ]2023-07-27 15:18:14,638(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@3ef7fb04
+['INFO ]2023-07-27 15:18:14,657(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:18:14,968(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------------details retrieved by assignment id ------------------
+['INFO ]2023-07-27 15:18:14,969(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:18:15,286(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:18:15,287(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by userid-----------
+['INFO ]2023-07-27 15:18:15,608(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:18:15,620(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:18:15,620(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by batchid-----------
+['INFO ]2023-07-27 15:18:15,965(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:18:15,981(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:18:15,981(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by userid-----------
+['INFO ]2023-07-27 15:18:16,337(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:18:16,361(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:18:16,362(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by batchid-----------
+['INFO ]2023-07-27 15:18:16,608(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:18:16,642(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment*************
+['INFO ]2023-07-27 15:18:16,959(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment updated *************
+['INFO ]2023-07-27 15:18:16,960(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:18:16,976(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:18:17,013(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** put for grade submission student User *************
+['INFO ]2023-07-27 15:18:17,374(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:18:17,404(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- delete request with endpoint------------------
+['INFO ]2023-07-27 15:18:17,404(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment Submission *************
+['INFO ]2023-07-27 15:18:17,615(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:21:52,750(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:21:53,070(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:21:53,076(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:21:53,077(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:21:53,079(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:21:54,189(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@48d44b46
+['INFO ]2023-07-27 15:21:54,335(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:21:54,338(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:21:54,339(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************POSt request***************
+['INFO ]2023-07-27 15:21:54,700(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@1218e12
+['INFO ]2023-07-27 15:21:54,731(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:21:54,731(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:21:54,739(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************GET program byId***************
+['INFO ]2023-07-27 15:21:54,779(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:21:54,780(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:21:54,781(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************PUT program byId***************
+['INFO ]2023-07-27 15:21:55,129(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@3de88f64
+['INFO ]2023-07-27 15:21:55,145(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:21:55,145(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:21:55,146(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************PUT program BY NAME ***************
+['INFO ]2023-07-27 15:21:55,164(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:21:55,165(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:21:55,167(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************POST second program ***************
+['INFO ]2023-07-27 15:21:55,522(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@3460e4ed
+['INFO ]2023-07-27 15:21:55,695(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment POST request with endpoint
+['INFO ]2023-07-27 15:21:56,119(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Assignment *************
+['INFO ]2023-07-27 15:21:56,621(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:21:56,622(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving All Assignments *************
+['INFO ]2023-07-27 15:21:56,852(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@126d0868
+['INFO ]2023-07-27 15:21:57,039(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:21:57,057(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:21:57,058(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:21:57,278(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@709d2a6c
+['INFO ]2023-07-27 15:21:57,288(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:21:57,289(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:21:57,625(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@23dc70c1
+['INFO ]2023-07-27 15:21:57,635(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment PUT request with endpoint
+['INFO ]2023-07-27 15:21:57,671(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating assignment *************
+['INFO ]2023-07-27 15:21:58,048(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:21:58,049(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving All Assignments*************
+['INFO ]2023-07-27 15:21:58,756(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:21:59,000(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------------details retrieved by assignment id ------------------
+['INFO ]2023-07-27 15:21:59,011(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:21:59,088(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** put for grade submission student User *************
+['INFO ]2023-07-27 15:21:59,332(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:21:59,333(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by userid-----------
+['INFO ]2023-07-27 15:21:59,350(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:21:59,350(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by batchid-----------
+['INFO ]2023-07-27 15:21:59,673(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:21:59,674(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by userid-----------
+['INFO ]2023-07-27 15:21:59,691(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:21:59,692(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by batchid-----------
+['INFO ]2023-07-27 15:22:00,059(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------status code verified---------------
+['INFO ]2023-07-27 15:22:00,059(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------content type checked----------
+['INFO ]2023-07-27 15:22:00,059(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------Transfer-Encoding checked----------
+['INFO ]2023-07-27 15:22:00,066(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:22:00,106(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment*************
+['INFO ]2023-07-27 15:22:00,461(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment updated *************
+['INFO ]2023-07-27 15:22:00,472(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- delete request with endpoint------------------
+['INFO ]2023-07-27 15:22:00,473(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment Submission *************
+['INFO ]2023-07-27 15:22:00,824(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment DELETE request with endpoint
+['INFO ]2023-07-27 15:22:00,824(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment *************
+['INFO ]2023-07-27 15:22:01,203(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@357e7113
+['INFO ]2023-07-27 15:22:01,218(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************DELETE program byId***************
+['INFO ]2023-07-27 15:22:01,539(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@4202276
+['INFO ]2023-07-27 15:22:01,559(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************DELETE program BY NAME ***************
+['INFO ]2023-07-27 15:22:03,234(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment POST request with endpoint
+['INFO ]2023-07-27 15:22:03,235(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Assignment *************
+['INFO ]2023-07-27 15:22:03,497(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** status is been verified ****************
+['INFO ]2023-07-27 15:22:03,505(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:22:03,506(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:22:03,746(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@3c981f76
+['INFO ]2023-07-27 15:22:03,749(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:22:03,755(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:22:03,789(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:22:04,052(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@231c521e
+['INFO ]2023-07-27 15:22:04,054(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:22:04,071(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment PUT request with endpoint
+['INFO ]2023-07-27 15:22:04,072(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating assignment *************
+['INFO ]2023-07-27 15:22:04,365(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment DELETE request with endpoint
+['INFO ]2023-07-27 15:22:04,366(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment *************
+['INFO ]2023-07-27 15:22:04,751(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@32b8992e
+['INFO ]2023-07-27 15:22:04,768(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:22:04,991(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------------details retrieved by assignment id ------------------
+['INFO ]2023-07-27 15:22:04,992(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:22:05,307(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:22:05,308(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by userid-----------
+['INFO ]2023-07-27 15:22:05,543(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:22:05,558(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:22:05,559(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by batchid-----------
+['INFO ]2023-07-27 15:22:05,765(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:22:05,780(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:22:05,780(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by userid-----------
+['INFO ]2023-07-27 15:22:06,145(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:22:06,161(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:22:06,162(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by batchid-----------
+['INFO ]2023-07-27 15:22:06,388(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:22:06,427(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment*************
+['INFO ]2023-07-27 15:22:06,747(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment updated *************
+['INFO ]2023-07-27 15:22:06,749(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:22:06,776(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:22:06,817(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** put for grade submission student User *************
+['INFO ]2023-07-27 15:22:07,198(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:22:07,213(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- delete request with endpoint------------------
+['INFO ]2023-07-27 15:22:07,213(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment Submission *************
+['INFO ]2023-07-27 15:22:07,458(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:26:57,609(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:26:57,977(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:26:57,982(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:26:57,984(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:26:57,985(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:26:59,832(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@643f6179
+['INFO ]2023-07-27 15:26:59,930(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:26:59,934(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:26:59,935(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************POSt request***************
+['INFO ]2023-07-27 15:27:00,205(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@1bb96449
+['INFO ]2023-07-27 15:27:00,224(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:27:00,225(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:27:00,232(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************GET program byId***************
+['INFO ]2023-07-27 15:27:00,265(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:27:00,267(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:27:00,268(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************PUT program byId***************
+['INFO ]2023-07-27 15:27:00,498(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@7bfa1eb5
+['INFO ]2023-07-27 15:27:00,513(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:27:00,514(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:27:00,515(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************PUT program BY NAME ***************
+['INFO ]2023-07-27 15:27:00,530(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:27:00,530(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:27:00,531(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************POST second program ***************
+['INFO ]2023-07-27 15:27:00,766(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@144a5e6e
+['INFO ]2023-07-27 15:27:01,172(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Batch **************************
+['INFO ]2023-07-27 15:27:01,654(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving All Batches *************
+['INFO ]2023-07-27 15:27:02,951(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 15:27:02,971(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving Batch *************
+['INFO ]2023-07-27 15:27:03,196(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@177068db
+['INFO ]2023-07-27 15:27:03,199(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 15:27:03,206(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Batch *************
+['INFO ]2023-07-27 15:27:03,416(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@7d70ba18
+['INFO ]2023-07-27 15:27:03,420(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 15:27:03,766(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating Batch*************
+['INFO ]2023-07-27 15:27:04,064(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Batch details Updated ****************
+['INFO ]2023-07-27 15:27:04,064(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving Batch Details after Update *************
+['INFO ]2023-07-27 15:27:04,275(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@fe156f4
+['INFO ]2023-07-27 15:27:04,277(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Batch details Updated *************
+['INFO ]2023-07-27 15:27:11,377(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment POST request with endpoint
+['INFO ]2023-07-27 15:27:11,421(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Assignment *************
+['INFO ]2023-07-27 15:27:11,648(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:27:11,648(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving All Assignments *************
+['INFO ]2023-07-27 15:27:11,871(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@6d658aa8
+['INFO ]2023-07-27 15:27:12,077(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:27:12,084(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:27:12,085(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:27:12,303(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@10230657
+['INFO ]2023-07-27 15:27:12,311(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:27:12,312(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:27:12,635(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@5a5a973c
+['INFO ]2023-07-27 15:27:12,656(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment PUT request with endpoint
+['INFO ]2023-07-27 15:27:12,683(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating assignment *************
+['INFO ]2023-07-27 15:27:12,956(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- post request with endpoint------------------
+['INFO ]2023-07-27 15:27:12,984(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Submitting Assignment*************
+['INFO ]2023-07-27 15:27:13,272(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:27:13,273(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving All Assignments*************
+['INFO ]2023-07-27 15:27:14,117(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:27:14,356(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------------details retrieved by assignment id ------------------
+['INFO ]2023-07-27 15:27:14,375(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:27:14,399(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** put for grade submission student User *************
+['INFO ]2023-07-27 15:27:14,749(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:27:14,749(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by userid-----------
+['INFO ]2023-07-27 15:27:15,040(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:27:15,041(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by batchid-----------
+['INFO ]2023-07-27 15:27:15,247(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:27:15,248(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by userid-----------
+['INFO ]2023-07-27 15:27:15,597(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------status code verified---------------
+['INFO ]2023-07-27 15:27:15,597(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------content type checked----------
+['INFO ]2023-07-27 15:27:15,598(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------Transfer-Encoding checked----------
+['INFO ]2023-07-27 15:27:15,609(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:27:15,609(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by batchid-----------
+['INFO ]2023-07-27 15:27:15,897(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------status code verified---------------
+['INFO ]2023-07-27 15:27:15,897(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------content type checked----------
+['INFO ]2023-07-27 15:27:15,897(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------Transfer-Encoding checked----------
+['INFO ]2023-07-27 15:27:15,905(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:27:15,925(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment*************
+['INFO ]2023-07-27 15:27:16,262(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment updated *************
+['INFO ]2023-07-27 15:27:16,272(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- delete request with endpoint------------------
+['INFO ]2023-07-27 15:27:16,272(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment Submission *************
+['INFO ]2023-07-27 15:27:16,622(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment DELETE request with endpoint
+['INFO ]2023-07-27 15:27:16,623(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment *************
+['INFO ]2023-07-27 15:27:16,934(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@3705a85c
+['INFO ]2023-07-27 15:27:17,316(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Batch *************
+['INFO ]2023-07-27 15:27:17,671(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@797ca322
+['INFO ]2023-07-27 15:27:17,673(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deletion Successful *************
+['INFO ]2023-07-27 15:27:17,690(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************DELETE program byId***************
+['INFO ]2023-07-27 15:27:18,005(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@c040c8d
+['INFO ]2023-07-27 15:27:18,012(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************DELETE program BY NAME ***************
+['INFO ]2023-07-27 15:27:19,647(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Batch **************************
+['INFO ]2023-07-27 15:27:20,036(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving Batch *************
+['INFO ]2023-07-27 15:27:20,410(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@c7aac7c
+['INFO ]2023-07-27 15:27:20,412(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 15:27:20,429(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Batch *************
+['INFO ]2023-07-27 15:27:20,755(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@6980fa39
+['INFO ]2023-07-27 15:27:20,757(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------status is verified------
+['INFO ]2023-07-27 15:27:21,121(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating Batch*************
+['INFO ]2023-07-27 15:27:21,463(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Batch details Updated ****************
+['INFO ]2023-07-27 15:27:21,463(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving Batch Details after Update *************
+['INFO ]2023-07-27 15:27:21,661(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@74f9004c
+['INFO ]2023-07-27 15:27:21,671(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Batch *************
+['INFO ]2023-07-27 15:27:21,948(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@34f3c920
+['INFO ]2023-07-27 15:27:25,034(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment POST request with endpoint
+['INFO ]2023-07-27 15:27:25,035(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Assignment *************
+['INFO ]2023-07-27 15:27:25,249(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** status is been verified ****************
+['INFO ]2023-07-27 15:27:25,255(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:27:25,255(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:27:25,524(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@661d49d1
+['INFO ]2023-07-27 15:27:25,525(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:27:25,540(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:27:25,555(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:27:25,860(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@a8964c1
+['INFO ]2023-07-27 15:27:25,861(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:27:25,865(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment PUT request with endpoint
+['INFO ]2023-07-27 15:27:25,866(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating assignment *************
+['INFO ]2023-07-27 15:27:26,190(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment DELETE request with endpoint
+['INFO ]2023-07-27 15:27:26,191(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment *************
+['INFO ]2023-07-27 15:27:26,417(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@1e8c741c
+['INFO ]2023-07-27 15:27:26,426(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- post request with endpoint------------------
+['INFO ]2023-07-27 15:27:26,445(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment submission for negative scenario****************
+['INFO ]2023-07-27 15:27:26,671(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** status is been verified ****************
+['INFO ]2023-07-27 15:27:26,672(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:27:26,696(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:27:27,058(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------------details retrieved by assignment id ------------------
+['INFO ]2023-07-27 15:27:27,059(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:27:27,075(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:27:27,076(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by userid-----------
+['INFO ]2023-07-27 15:27:27,382(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:27:27,406(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:27:27,406(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by batchid-----------
+['INFO ]2023-07-27 15:27:27,616(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:27:27,632(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:27:27,632(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by userid-----------
+['INFO ]2023-07-27 15:27:27,845(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:27:27,861(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:27:27,861(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by batchid-----------
+['INFO ]2023-07-27 15:27:28,129(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:27:28,150(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment*************
+['INFO ]2023-07-27 15:27:28,507(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment updated *************
+['INFO ]2023-07-27 15:27:28,508(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:27:28,532(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:27:28,548(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** put for grade submission student User *************
+['INFO ]2023-07-27 15:27:28,783(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:27:28,794(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- delete request with endpoint------------------
+['INFO ]2023-07-27 15:27:28,794(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment Submission *************
+['INFO ]2023-07-27 15:27:29,159(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:30:12,805(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:30:13,133(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:30:13,140(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:30:13,141(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:30:13,144(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:30:14,912(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@48d44b46
+['INFO ]2023-07-27 15:30:15,041(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:30:15,044(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:30:15,045(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************POSt request***************
+['INFO ]2023-07-27 15:30:15,481(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@1218e12
+['INFO ]2023-07-27 15:30:15,498(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:30:15,499(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:30:15,505(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************GET program byId***************
+['INFO ]2023-07-27 15:30:15,543(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:30:15,544(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:30:15,545(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************PUT program byId***************
+['INFO ]2023-07-27 15:30:15,785(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@3de88f64
+['INFO ]2023-07-27 15:30:15,801(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:30:15,801(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:30:15,803(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************PUT program BY NAME ***************
+['INFO ]2023-07-27 15:30:15,821(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*************Getting all records***************
+['INFO ]2023-07-27 15:30:15,822(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-In the Given by proram Id
+['INFO ]2023-07-27 15:30:15,823(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************POST second program ***************
+['INFO ]2023-07-27 15:30:16,114(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@3460e4ed
+['INFO ]2023-07-27 15:30:16,287(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment POST request with endpoint
+['INFO ]2023-07-27 15:30:16,721(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Assignment *************
+['INFO ]2023-07-27 15:30:17,138(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:30:17,139(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving All Assignments *************
+['INFO ]2023-07-27 15:30:17,506(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@126d0868
+['INFO ]2023-07-27 15:30:18,276(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:30:18,285(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:30:18,286(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:30:18,656(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@709d2a6c
+['INFO ]2023-07-27 15:30:18,681(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:30:18,683(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:30:18,917(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@23dc70c1
+['INFO ]2023-07-27 15:30:18,932(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment PUT request with endpoint
+['INFO ]2023-07-27 15:30:18,975(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating assignment *************
+['INFO ]2023-07-27 15:30:19,226(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:30:19,227(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retriving All Assignments*************
+['INFO ]2023-07-27 15:30:19,985(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:30:20,359(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------------details retrieved by assignment id ------------------
+['INFO ]2023-07-27 15:30:20,386(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:30:20,469(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** put for grade submission student User *************
+['INFO ]2023-07-27 15:30:20,826(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:30:20,827(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by userid-----------
+['INFO ]2023-07-27 15:30:20,838(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:30:20,839(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by batchid-----------
+['INFO ]2023-07-27 15:30:21,050(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:30:21,052(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by userid-----------
+['INFO ]2023-07-27 15:30:21,060(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:30:21,060(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by batchid-----------
+['INFO ]2023-07-27 15:30:21,453(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------status code verified---------------
+['INFO ]2023-07-27 15:30:21,453(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------content type checked----------
+['INFO ]2023-07-27 15:30:21,453(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------Transfer-Encoding checked----------
+['INFO ]2023-07-27 15:30:21,473(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:30:21,519(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment*************
+['INFO ]2023-07-27 15:30:21,831(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment updated *************
+['INFO ]2023-07-27 15:30:21,849(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- delete request with endpoint------------------
+['INFO ]2023-07-27 15:30:21,850(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment Submission *************
+['INFO ]2023-07-27 15:30:22,214(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment DELETE request with endpoint
+['INFO ]2023-07-27 15:30:22,215(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment *************
+['INFO ]2023-07-27 15:30:22,428(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@357e7113
+['INFO ]2023-07-27 15:30:22,451(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************DELETE program byId***************
+['INFO ]2023-07-27 15:30:22,799(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@4202276
+['INFO ]2023-07-27 15:30:22,816(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-************DELETE program BY NAME ***************
+['INFO ]2023-07-27 15:30:24,291(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment POST request with endpoint
+['INFO ]2023-07-27 15:30:24,291(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Creating Assignment *************
+['INFO ]2023-07-27 15:30:24,514(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** status is been verified ****************
+['INFO ]2023-07-27 15:30:24,530(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:30:24,531(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:30:24,733(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@3c981f76
+['INFO ]2023-07-27 15:30:24,734(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:30:24,742(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment GET request with endpoint
+['INFO ]2023-07-27 15:30:24,775(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Retrieving Assignment *************
+['INFO ]2023-07-27 15:30:25,127(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@231c521e
+['INFO ]2023-07-27 15:30:25,130(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Assignment details are Displayed *************
+['INFO ]2023-07-27 15:30:25,138(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment PUT request with endpoint
+['INFO ]2023-07-27 15:30:25,139(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Updating assignment *************
+['INFO ]2023-07-27 15:30:25,497(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-Assignment DELETE request with endpoint
+['INFO ]2023-07-27 15:30:25,497(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment *************
+['INFO ]2023-07-27 15:30:25,833(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-io.restassured.internal.RestAssuredResponseImpl@32b8992e
+['INFO ]2023-07-27 15:30:25,861(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:30:26,209(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)--------------details retrieved by assignment id ------------------
+['INFO ]2023-07-27 15:30:26,212(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:30:26,516(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:30:26,517(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by userid-----------
+['INFO ]2023-07-27 15:30:26,830(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:30:26,852(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:30:26,853(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by batchid-----------
+['INFO ]2023-07-27 15:30:27,066(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:30:27,082(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:30:27,083(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by userid-----------
+['INFO ]2023-07-27 15:30:27,301(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:30:27,325(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- get request with endpoint------------------
+['INFO ]2023-07-27 15:30:27,326(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)------------- grades by submission by batchid-----------
+['INFO ]2023-07-27 15:30:27,602(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:30:27,632(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment*************
+['INFO ]2023-07-27 15:30:27,945(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Put request resubmit assignment updated *************
+['INFO ]2023-07-27 15:30:27,946(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:30:27,971(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- put request with endpoint------------------
+['INFO ]2023-07-27 15:30:28,017(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** put for grade submission student User *************
+['INFO ]2023-07-27 15:30:28,244(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
+['INFO ]2023-07-27 15:30:28,259(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-------- delete request with endpoint------------------
+['INFO ]2023-07-27 15:30:28,260(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-*********************** Deleting Assignment Submission *************
+['INFO ]2023-07-27 15:30:28,533(YYYY-MM-ddHH:MM:ss.SSS][main]api.utilities.Loggerload1)-assertion validated
