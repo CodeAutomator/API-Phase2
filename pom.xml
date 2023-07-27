@@ -3,52 +3,71 @@
   <groupId>APITrekkers-Team13</groupId>
   <artifactId>APITrekkers-Team13</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
   <dependencies>
-	  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+<!-- https://mvnrepository.com/artifact/org.json/json -->
 <dependency>
-    <groupId>org.seleniumhq.selenium</groupId>
-    <artifactId>selenium-java</artifactId>
-    <version>4.9.1</version>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    <version>20230618</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
+
 <dependency>
-    <groupId>io.cucumber</groupId>
-    <artifactId>cucumber-java</artifactId>
-    <version>7.4.1</version>
+    <groupId>com.github.javafaker</groupId>
+    <artifactId>javafaker</artifactId>
+    <version>1.0.2</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
+<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
 <dependency>
-    <groupId>io.cucumber</groupId>
-    <artifactId>cucumber-junit</artifactId>
-    <version>7.4.1</version>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi</artifactId>
+    <version>5.2.3</version>
+</dependency>
+
+	  <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-ooxml</artifactId>
+    <version>5.2.3</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
+<dependency>
+    <groupId>org.apache.logging.log4j</groupId>
+    <artifactId>log4j-core</artifactId>
+    <version>2.20.0</version>
+</dependency>
+	
+	<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.7.1</version>
     <scope>test</scope>
 </dependency>
-<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-testng -->
+<!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest -->
 <dependency>
-    <groupId>io.cucumber</groupId>
-    <artifactId>cucumber-testng</artifactId>
-    <version>7.4.1</version>
-</dependency>
-<!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
-<dependency>
-    <groupId>io.rest-assured</groupId>
-    <artifactId>rest-assured</artifactId>
-    <version>5.3.0</version>
+    <groupId>org.hamcrest</groupId>
+    <artifactId>hamcrest</artifactId>
+    <version>2.2</version>
     <scope>test</scope>
 </dependency>
-<!-- https://mvnrepository.com/artifact/io.rest-assured/json-path -->
+
+<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
 <dependency>
-    <groupId>io.rest-assured</groupId>
-    <artifactId>json-path</artifactId>
-    <version>5.3.0</version>
-    <scope>test</scope>
+    <groupId>com.fasterxml.jackson.core</groupId>
+    <artifactId>jackson-databind</artifactId>
+    <version>2.15.2</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/com.github.scribejava/scribejava-apis -->
+<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations -->
 <dependency>
-    <groupId>com.github.scribejava</groupId>
-    <artifactId>scribejava-apis</artifactId>
-    <version>8.3.3</version>
-    <scope>runtime</scope>
+    <groupId>com.fasterxml.jackson.core</groupId>
+    <artifactId>jackson-annotations</artifactId>
+    <version>2.15.2</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core -->
+<dependency>
+    <groupId>com.fasterxml.jackson.core</groupId>
+    <artifactId>jackson-core</artifactId>
+    <version>2.15.2</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
 <dependency>
@@ -57,55 +76,27 @@
     <version>2.10.1</version>
 </dependency>
 
-<!-- https://mvnrepository.com/artifact/org.json/json -->
 <dependency>
-    <groupId>org.json</groupId>
-    <artifactId>json</artifactId>
-    <version>20210307</version>
+      <groupId>io.rest-assured</groupId>
+      <artifactId>json-schema-validator</artifactId>
+      <version>5.3.1</version>
+      <scope>test</scope>
 </dependency>
-<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
-<dependency>
-    <groupId>com.fasterxml.jackson.core</groupId>
-    <artifactId>jackson-databind</artifactId>
-    <version>2.15.2</version>
-</dependency>
-<!-- https://mvnrepository.com/artifact/io.rest-assured/json-schema-validator -->
+
+	  <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
 <dependency>
     <groupId>io.rest-assured</groupId>
-    <artifactId>json-schema-validator</artifactId>
+    <artifactId>rest-assured</artifactId>
     <version>5.3.0</version>
     <scope>test</scope>
 </dependency>
-<!-- https://mvnrepository.com/artifact/com.github.javafaker/javafaker -->
-<dependency>
-    <groupId>com.github.javafaker</groupId>
-    <artifactId>javafaker</artifactId>
-    <version>1.0.2</version>
-</dependency>
-<dependency>
-    <groupId>org.testng</groupId>
-    <artifactId>testng</artifactId>
-    <version>7.7.1</version>
-    <scope>test</scope>
-</dependency>
 
-<!-- https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple -->
+	  <!-- https://mvnrepository.com/artifact/io.rest-assured/json-path -->
 <dependency>
-    <groupId>com.googlecode.json-simple</groupId>
-    <artifactId>json-simple</artifactId>
-    <version>1.1.1</version>
-</dependency>
-<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
-<dependency>
-    <groupId>org.apache.poi</groupId>
-    <artifactId>poi</artifactId>
-    <version>5.2.3</version>
-</dependency>
-<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
-<dependency>
-    <groupId>org.apache.poi</groupId>
-    <artifactId>poi-ooxml</artifactId>
-    <version>5.2.3</version>
+    <groupId>io.rest-assured</groupId>
+    <artifactId>json-path</artifactId>
+    <version>5.3.1</version>
+    <scope>test</scope>
 </dependency>
 <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
 <dependency>
@@ -113,35 +104,56 @@
     <artifactId>extentreports</artifactId>
     <version>5.0.9</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/tech.grasshopper/extentreports-cucumber7-adapter -->
-<dependency>
-    <groupId>tech.grasshopper</groupId>
-    <artifactId>extentreports-cucumber7-adapter</artifactId>
-    <version>1.10.1</version>
-</dependency>
-<!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
-<dependency>
-    <groupId>org.apache.logging.log4j</groupId>
-    <artifactId>log4j-core</artifactId>
-    <version>2.19.0</version>
-</dependency>
-<!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api -->
-<dependency>
-    <groupId>org.apache.logging.log4j</groupId>
-    <artifactId>log4j-api</artifactId>
-    <version>2.19.0</version>
-</dependency>
 <!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-cucumber7-jvm -->
 <dependency>
     <groupId>io.qameta.allure</groupId>
     <artifactId>allure-cucumber7-jvm</artifactId>
     <version>2.19.0</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-jdk8 -->
-<dependency>
-    <groupId>com.fasterxml.jackson.datatype</groupId>
-    <artifactId>jackson-datatype-jdk8</artifactId>
-    <version>2.15.2</version>
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-java</artifactId>
+			<version>7.11.2</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-junit</artifactId>
+			<version>7.11.2</version>
+			<scope>test</scope>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-testng -->
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-testng</artifactId>
+			<version>7.11.2</version>
+		</dependency>
+
+<!-- https://mvnrepository.com/artifact/io.cucumber/gherkin -->
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>gherkin</artifactId>
+			<version>26.2.0</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-core -->
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-core</artifactId>
+			<version>7.11.2</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-jvm -->
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-jvm</artifactId>
+			<version>7.11.1</version>
+			<type>pom</type>
+		</dependency>
+		
+	<dependency>
+    <groupId>com.googlecode.json-simple</groupId>
+    <artifactId>json-simple</artifactId>
+    <version>1.1.1</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/com.opencsv/opencsv -->
 <dependency>
@@ -150,28 +162,27 @@
     <version>5.7.1</version>
 </dependency>
 <dependency>
-    <groupId>org.projectlombok</groupId>
-    <artifactId>lombok</artifactId>
-    <version>1.18.24</version>
-    <scope>provided</scope>
-</dependency>
-   </dependencies>
-        <build>
-     <plugins>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-compiler-plugin</artifactId>
-        <version>3.10.1</version>
-        <configuration>
-          <source>1.8</source>
-          <target>1.8</target>
-        </configuration>
-      </plugin>
-      			<plugin>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.24</version>
+			<optional>true</optional>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/tech.grasshopper/extentreports-cucumber7-adapter -->
+		<dependency>
+			<groupId>tech.grasshopper</groupId>
+			<artifactId>extentreports-cucumber7-adapter</artifactId>
+			<version>1.12.0</version>
+		</dependency>
+	
+
+  </dependencies>
+   <build>
+		<plugins>
+			<plugin>
 				<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-surefire-plugin -->
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
-				<version>3.0.0-M8</version>
+				<version>3.0.0</version>
 				<configuration>
 					<suiteXmlFiles>
 						<suiteXmlFile>testng.xml</suiteXmlFile>
@@ -179,8 +190,16 @@
 					<argLine></argLine>
 				</configuration>
 			</plugin>
-     </plugins>
-    </build>
-
-
+		      <plugin>
+		        <groupId>org.apache.maven.plugins</groupId>
+		        <artifactId>maven-compiler-plugin</artifactId>
+		        <version>3.7.0</version>
+		        <configuration>
+		          <source>1.8</source>
+		          <target>1.8</target>
+		           <encoding>UTF-8</encoding>          
+		        </configuration>
+		      </plugin>	  		      		     
+      	</plugins>
+  	</build>
 </project>
